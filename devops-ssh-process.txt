@@ -5,5 +5,4 @@ gito your CMD or TErminal or GitBash, then use the below command to generate the
   --> pvtkey name = id_rsa ,    PUB key = id_rsa.pub .
   do cat or vi id_rsa.pub --> then copy the key --> goto github account --> goto setting --> select ssh keys --> add sshkey -> title - githubclone -> 
   --> paste the key --> add key --> goto repo --> copy cloning URL --> clone in gitbash using git clone repoURL.
-  
-  !@#$$UBFJBFJBNFB
+
