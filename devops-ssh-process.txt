@@ -1,0 +1,9 @@
+How to create SSH key from scratch:
+gito your CMD or TErminal or GitBash, then use the below command to generate the SSH key from scratch.
+  #### CMD: ssh-keygen ####
+   after adding this command give enter upto 4times to create the SSH-KEY --> goto UsersLocation -> select .SSH file --> we can see now Public & provate Key
+  --> pvtkey name = id_rsa ,    PUB key = id_rsa.pub .
+  do cat or vi id_rsa.pub --> then copy the key --> goto github account --> goto setting --> select ssh keys --> add sshkey -> title - githubclone -> 
+  --> paste the key --> add key --> goto repo --> copy cloning URL --> clone in gitbash using git clone repoURL.
+  
+  !@#$$UBFJBFJBNFB
